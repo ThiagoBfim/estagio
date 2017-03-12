@@ -17,6 +17,5 @@ public class Main {
 		// Close the connection:
 		connection.close();
 		System.out.println("closed");
-		
 	}
 }
